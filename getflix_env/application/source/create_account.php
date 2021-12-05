@@ -110,7 +110,7 @@ if (!empty($_POST)) {
                 // Insérer le dernier id placé dans le table
                 $id = $conn->lastInsertId();
 
-                // On stocke dans cette session les infos de l'utilisateur
+                // On stocke dans cette session les infos de l'utilisateurs
                 $_SESSION['user'] = [
                     'id' => $id,
                     'first_name' => $first_name,
