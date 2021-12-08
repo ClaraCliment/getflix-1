@@ -7,7 +7,7 @@ Project carried out during BeCode's training. Creation of a platform inspired by
 
 ### *The project* : 
 
-👉 [Click here to discover the project Room 237](https://room237.000webhostapp.com/)
+[Click here to discover the project Room 237](https://room237.000webhostapp.com/)
 
 <br>
 
