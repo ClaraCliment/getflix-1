@@ -5,6 +5,12 @@ Project carried out during BeCode's training. Creation of a platform inspired by
 ---
 <br>
 
+### *The project* : 
+
+[Click here to discover the project Room 237](https://room237.000webhostapp.com/)
+
+<br>
+
 ### *Collaborators* : 
 
 - Lionel Gysen (https://github.com/gysenlionel#hi-there-) **front/back end**
